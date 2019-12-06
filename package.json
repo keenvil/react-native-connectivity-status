@@ -31,6 +31,6 @@
     "test": "echo \"No test specified\""
   },
   "peerDependencies": {
-    "react-native": ">=0.41.2"
+    "react-native": ">=0.61.4"
   }
 }
